@@ -17,8 +17,8 @@
 
 
 ### Other prerequisites
-* [betterlockscreen] (https://github.com/pavanjadhaw/betterlockscreen)
-* [bc] (sudo pacman -S bc)
+* lockscreen: [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+* dependence: [bc](sudo pacman -S bc)
 
 
 
@@ -32,6 +32,9 @@
 
 
 4- Updating image cache(required)
-betterlockscreen -u /usr/share/backgrounds/hefftorlinux_4k/woman-music-fantacy.jpg  "or change the wall to whatever you want"
+
+betterlockscreen -u /usr/share/backgrounds/hefftorlinux_4k/woman-music-fantacy.jpg
+
+* or: [change the wall](to whatever you want)
 
 refresh polybar & enjoy your new option.
