@@ -6,6 +6,9 @@
 
 ## powermenu-on
 ![powermenu-on](/preview/powermenu-on.png)
+<br />
+##adeos-core-64 theme
+![adeos-core-64](/preview/adeos-core-64.png)
 
 * Distro: [ArchLabs](https://archlabslinux.com/)
 * Window manager: [Bspwm](https://github.com/Airblader/i3)
