@@ -19,30 +19,7 @@
 
 
 
-1- add this module to your polybar config:
-
-[module/powermenu]
-type = custom/script
-
-exec = echo ""
-
-;;exec = echo " "
-
-interval = 1
-
-tail = true
-
-format-foreground = ${colors.foreground}
-
-format-background = ${colors.background}
-
-format-prefix-foreground = #738adb
-
-format-underline = ${colors.foreground-alt}
-
-click-left = hefflogout &
-
-label = %output%
+1- copy the powermodule to your polybar config:
 
 
 2- copy all files to the correct address...
