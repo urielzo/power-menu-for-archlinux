@@ -2,8 +2,7 @@ add this module to your polybar config:
 
 [module/powermenu]
 type = custom/script
-exec = echo ""
-;;exec = echo " "
+exec = echo " power"
 interval = 1
 tail = true
 format-foreground = ${colors.foreground}

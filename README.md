@@ -1,6 +1,6 @@
 # power-menu-for-archlinux
 
-* [power-menu to polybar] ( hefflogout from HefftorLinux )
+* hefflogout:[from HefftorLinux]
 
 ## Preview
 
@@ -18,17 +18,19 @@
 
 ### Other prerequisites
 * lockscreen: [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
-* dependence: [bc](sudo pacman -S bc)
+
+* dependence: [bc]
+* $:[sudo pacman -S bc]
 
 
 
 1- copy the powermodule to your polybar config:
 
 
-2- copy all files to the correct address...
+2- copy all files to the correct dir...
 
 
-3- install the requirements for the lockscreen option.
+3- install the prerequisites for the lockscreen option.
 
 
 4- Updating image cache(required)
@@ -37,4 +39,6 @@ betterlockscreen -u /usr/share/backgrounds/hefftorlinux_4k/woman-music-fantacy.j
 
 * or: [change the wall](to whatever you want)
 
-refresh polybar & enjoy your new option.
+* with this comand: [hefftor-betterlockscreen-gui ]
+
+restart polybar & enjoy your new option.
