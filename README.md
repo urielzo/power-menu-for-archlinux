@@ -1,6 +1,6 @@
 # power-menu-for-archlinux
 
-* hefflogout:[from HefftorLinux]
+* hefflogout: [from HefftorLinux](https://hefftorlinux.net/)
 
 ## Preview
 
@@ -19,8 +19,9 @@
 ### Other prerequisites
 * lockscreen: [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
 
-* dependence: [bc]
-* $:[sudo pacman -S bc]
+* dependence: bc
+
+* sudo pacman -S bc
 
 
 
@@ -37,8 +38,10 @@
 
 betterlockscreen -u /usr/share/backgrounds/hefftorlinux_4k/woman-music-fantacy.jpg
 
-* or: [change the wall](to whatever you want)
 
-* with this comand: [hefftor-betterlockscreen-gui ]
+* or: change the wall to whatever you want
+
+* with this comand: hefftor-betterlockscreen-gui
+
 
 restart polybar & enjoy your new option.
