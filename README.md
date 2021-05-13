@@ -18,6 +18,7 @@
 
 ### Other prerequisites
 * lockscreen: [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+* i3lock-color [here](https://github.com/Raymo111/i3lock-color)
 
 * dependence: bc
 
